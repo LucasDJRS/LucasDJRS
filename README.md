@@ -28,6 +28,7 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117&logoColor=61DAFB)&nbsp;
 ![API REST](https://img.shields.io/badge/-API%20REST-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117&logoColor=4000BF)&nbsp;
 
 
 ### Tools:
